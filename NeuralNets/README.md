@@ -1,1 +1,1 @@
-From the dataset of the history of Customer behaviour for defaulting on their loan, build a simple ANN model to predict future results!!
+From the dataset of the history of Customer behaviour for defaulting on their loan, build a simple ANN model to predict future results!! 
